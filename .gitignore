@@ -2,6 +2,9 @@
 *.bin
 *.elf
 *.map
+*.log
+*.iso
+build/*
 # Kernel modules that get patched into the kernel after the kernel is
 # built. to add it into the kernel, the build/{arch}/kImage.bin must be ready
 # then run make patch_mods

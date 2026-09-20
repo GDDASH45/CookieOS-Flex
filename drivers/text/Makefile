@@ -1,0 +1,1 @@
+obj-y += drivers/text/text.o
